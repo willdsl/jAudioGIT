@@ -6,7 +6,7 @@ Execute `java -jar jaudio.jar` in dist directory
 
 Project Overview
 
-jAudio is a Digital Signal Processing project built to provide an easy-to-use program for audio feature extraction. Audio feature extraction is extracting properties, such as beat points, statistical summaries, along with many other less obviously useful properties. These properties can then be fed to machine learning toolkits (such as Weka) to automatically extract properties (such as artist or genre) from unknown music. More interesting applications include predicting how much a particular person will enjoy a given piece of music or other hit song predictors.
+jAudio is an easy-to-use digital signal processor that provides audio feature extraction, including beat points and statistical summaries among many others. These properties can be fed to machine learning toolkits (such as Weka) to automatically extract properties, such as artist or genre, from unknown music. Other interesting applications include predictions around hit songs and personal enjoyment.
 
 The application can be used through a GUI, a command-line interface, and with embedding support.  Help is best from the extensive in-application help system (requiring MultiHelp).  The [git archive](https://github.com/dmcennis/jAudioGIT/tree/master/extras/help/en_US) contains this documentation tree as well.
 
